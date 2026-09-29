@@ -6,7 +6,7 @@ This project demonstrates how to build a custom translation system with YAML-bas
 
 ## 🎥 Demo
 
-[▶️ Watch the demo](./demo.mp4)
+https://github.com/user-attachments/assets/61e4aca8-4747-4fd6-82bb-9a1350b4f196
 
 ## ✨ Features
 
