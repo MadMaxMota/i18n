@@ -4,6 +4,10 @@ A scalable and maintainable internationalization (i18n) system built with Flutte
 
 This project demonstrates how to build a custom translation system with YAML-based translation files, dynamic language switching, device locale detection, asynchronous translation loading, and locale resolution.
 
+## 🎥 Demo
+
+[▶️ Watch the demo](./demo.mp4)
+
 ## ✨ Features
 
 * 🌎 Multiple language support
@@ -106,9 +110,9 @@ If the exact locale is not supported, the system checks whether another supporte
 
 ```text
 Device Locale
-     ↓
-   pt_BR
-     ↓
+      ↓
+    pt_BR
+      ↓
 Is the locale supported?
    ↙         ↘
  Yes          No
