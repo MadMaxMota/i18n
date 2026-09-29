@@ -1,0 +1,6 @@
+app:
+  title: "Demonstração Flutter"
+home:
+  title: "Página inicial"
+  counter_message: "Você pressionou o botão esta quantidade de vezes:"
+  increment: "Incrementar"
